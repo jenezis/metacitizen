@@ -7,6 +7,14 @@
 <title>metaCitizen</title>
 </head>
 <body>
-<img src="../images/under_construction.jpg" />
+<table align="center">
+<tr>
+<td><img src="../images/under_construction.jpg" /></td>
+</tr>
+<tr>
+<td align="center" style="font-family: arial; font-size: 10px;">Copyright © 2012 MetaCitizen! All rigths reserved.</td>
+</tr>
+</table>
+
 </body>
 </html>
