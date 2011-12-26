@@ -1,0 +1,2 @@
+serviceClass: net.metacitizen.web.client.GreetingService
+path: D53AF6D8AB40FF7230CEDD0BF1C8D4B6.gwt.rpc
